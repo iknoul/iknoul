@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamil rahman</h1>
 <h3 align="center">Mern Stack developer || Python Data Science</h3>
 
-- 🔭 Mern Stack Intern **at Techmindz, carnival-Info Park kochi**
+- 🔭 Currently, I'm honing my skills as a intern on a **live MERN stack project at TechMindz Carnival-InfoPark, Kochi**
 
 - 👯 I’m Working on **Batch management app**
 
