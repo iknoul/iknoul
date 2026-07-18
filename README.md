@@ -29,6 +29,7 @@
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Fastify](https://shields.io)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6B6B?style=flat-square&logo=api&logoColor=white)
